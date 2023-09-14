@@ -58,7 +58,7 @@ while($y=mysqli_fetch_array($x))
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Untitled Document</title>
 </head>
-
+<div class="clear"></div>
 <body>
 </body>
 </html>
