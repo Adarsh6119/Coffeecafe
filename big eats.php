@@ -44,7 +44,6 @@ while($y=mysqli_fetch_array($x))
 }
 ?>				
 				
-				
-							
+									
 </body>
 </html>			
